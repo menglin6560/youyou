@@ -1,0 +1,6 @@
+/* pages/mymovie/mymovie.wxss */
+.upload .btn-upload{
+background-color:#fc0;
+  color:#fff;
+  border:1px solid red;
+}
